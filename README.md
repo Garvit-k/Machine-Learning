@@ -1,5 +1,5 @@
 # Machine Learning
-This is repository contains Programming Assignments given in Machine Learning course given in Coursera.
+This repository contains Programming Assignments given in Machine Learning course given in Coursera.
 
 Instructed By - Andrew Ng.
 
